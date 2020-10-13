@@ -1,0 +1,36 @@
+{
+  "_from": "dc-ez.db",
+  "_id": "dc-ez.db@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-scDWCn7bQh9teZcByOwFXH+50aQa9N/jL7S52nr3FeePw+1pGj+bR2oOvkvGdeQa+VQPfR+UN6n7y7C9nXwuYg==",
+  "_location": "/dc-ez.db",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "dc-ez.db",
+    "name": "dc-ez.db",
+    "escapedName": "dc-ez.db",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/dc-ez.db/-/dc-ez.db-0.0.3.tgz",
+  "_shasum": "cd05179d0c9cdb91d740921fd6bce00f4056eef0",
+  "_spec": "dc-ez.db",
+  "_where": "C:\\Users\\Murat\\Desktop\\deneme",
+  "author": {
+    "name": "Zeppie"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A simple and easy database package for discord bots.",
+  "license": "dc-ez.db",
+  "main": "index.js",
+  "name": "dc-ez.db",
+  "version": "0.0.3"
+}
